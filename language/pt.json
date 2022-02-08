@@ -2,7 +2,7 @@
   "semantics": [
     {
       "label": "Utilizador no Twitter",
-      "description": "O utilizador de quem iremos trazer o tweets"
+      "description": "O utilizador de quem iremos buscar os tweets"
     },
     {
       "label": "Mostrar respostas"
