@@ -1,1 +1,4 @@
-iframe[id^='twitter-widget-']{ width:100% !important;}
+.h5p-twitter-user-feed-deprecation-message {
+  padding: 3em 2em;
+  text-align: center;
+}
