@@ -1,0 +1,14 @@
+{
+  "semantics": [
+    {
+      "label": "Jina la mtumiaji kwenye Twitter",
+      "description": "Jina la mtumiaji ambalo tutakuwa tunachukua tweets"
+    },
+    {
+      "label": "Onyesha majibu"
+    },
+    {
+      "label": "Idadi ya tweets"
+    }
+  ]
+}
