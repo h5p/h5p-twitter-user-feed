@@ -1,0 +1,14 @@
+{
+  "semantics": [
+    {
+      "label": "Vartotojo vardas Twitter",
+      "description": "Naudotojo vardas, iš kurio gausime tviterio žinutes"
+    },
+    {
+      "label": "Rodyti atsakymus"
+    },
+    {
+      "label": "„Twitter“ žinučių skaičius"
+    }
+  ]
+}
